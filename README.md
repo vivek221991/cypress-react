@@ -23,5 +23,7 @@ npm install cypress --save-dev
 # To run cypress using CLI> 
 # syntax: npx cypress run --browser <browser_name> --spec <spec_file>
   => npx cypress run --browser chrome --spec './cypress/e2e/react-demo.cy.js'
+ref : https://docs.cypress.io/api/commands/first
+
 
   
